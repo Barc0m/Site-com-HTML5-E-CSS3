@@ -1,0 +1,51 @@
+body
+{
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    background-color:rgb(187, 129, 229);
+    font-family: Verdana;
+}
+
+#titulo
+{
+    color:darkslategray;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.subtitulo
+{
+    color: rgb(36, 3, 69);
+}
+.post
+{
+    color:rgb(28, 22, 154);
+    margin: 0;
+    margin-bottom: 15px;
+}
+.postart
+{
+    background-color: rgb(201, 197, 255);
+    padding: 20px;
+    border: 15px solid rgb(0, 0, 0);
+    margin-bottom: 15px;
+}
+.conteudo
+{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+.image
+{
+    margin-bottom: 20px;
+}
+a
+{
+    text-decoration: line-through;
+    color: brown;
+}
+ul
+{
+    list-style-type: none;
+}
